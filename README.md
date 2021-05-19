@@ -21,8 +21,5 @@ PHP extensions:
 - mbString
 - Zip
 
-## Unibot has a WordPress Plugin!
 
-If you have a WordPress driven website, and wish to incorporate your Unibot chatbot into your
-website with a minimum of fuss and hassle, then maybe the Elizaibots plugin is what you need!
 
